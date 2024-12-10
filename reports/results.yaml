@@ -1,0 +1,779 @@
+connected_components_number: 7
+network_radius: 5
+network_diameter: 9
+avg_clustering: 0.52
+avg_shortest_path_length: 3.492
+global_clustering: 0.295
+clustering_distribution:
+  Ammanas: 0.22141560798548093
+  Laseen: 0.26936026936026936
+  Ganoes Stabro Paran: 0.13895357863685764
+  Caladan Brood: 0.30655391120507397
+  Dujek Onearm: 0.31462585034013607
+  Toc the Younger: 0.3076923076923077
+  Onos T'oolan: 0.14839424141749724
+  Whiskeyjack: 0.27570621468926554
+  Lorn: 0.717948717948718
+  Logros: 0.23976608187134502
+  Tayschrenn: 0.42063492063492064
+  Hairlock: 0.6888888888888889
+  Tattersail: 0.532608695652174
+  List: 0.2880371660859466
+  Ben Adaephon Delat: 0.13692722371967656
+  Kalam Mekhar: 0.2062146892655367
+  Apsalar: 0.21584699453551912
+  Cotillion: 0.1772549019607843
+  Kron: 0.2222222222222222
+  Anomander Rake: 0.16021825396825398
+  Crone: 0.5818181818181818
+  Kallor: 0.3789173789173789
+  Mallet: 0.4753694581280788
+  Bellurdan: 0.525
+  Nightchill: 0.5614035087719298
+  Kruppe: 0.22317073170731708
+  Pran: 0.8
+  Pran Chole: 0.47619047619047616
+  Cannig Tol: 0.6
+  Chole: 1.0
+  K'rul: 0.25
+  Murillio: 0.24242424242424243
+  Rallick Nom: 0.24675324675324675
+  Baruk: 0.33157894736842103
+  Crokus Younghand: 0.17474747474747473
+  Mammot: 0.4888888888888889
+  Fiddler: 0.16262626262626262
+  Hedge: 0.2713178294573643
+  Malle: 0.2645161290322581
+  Moby: 0.6666666666666666
+  Drin: 0
+  Irilta: 1.0
+  Meese: 0.5454545454545454
+  D'Arle: 0.6666666666666666
+  Scurve: 0
+  Chert: 0
+  Coll: 0.25161290322580643
+  Rall: 0.6666666666666666
+  Crippled God: 0.30952380952380953
+  Chained: 0
+  Alchemist: 1.0
+  Blind: 0.47619047619047616
+  Baran: 0.39285714285714285
+  Gear: 0.42857142857142855
+  Bara: 0.16666666666666666
+  Shan: 0.47619047619047616
+  Rood: 0.5714285714285714
+  Dela: 0
+  Kala: 0.7333333333333333
+  Ocelot: 0.6666666666666666
+  Vorcan: 0.47619047619047616
+  Challice: 0.2222222222222222
+  Chal: 0
+  Pearl: 0.5073529411764706
+  Adaephon: 1.0
+  Trotts: 0.5059288537549407
+  Yedan Derryg: 0.29004329004329005
+  Lost: 1.0
+  Turban Orr: 0.6
+  Silanah: 0.6
+  Circle Breaker: 0
+  Sulty: 1.0
+  Topper: 0.9
+  Gamet: 0.5588235294117647
+  Pannion Seer: 0.4935064935064935
+  Icarium: 0.1700404858299595
+  Mappo: 0.21428571428571427
+  Osseric: 0.37254901960784315
+  Anomandaris: 0.6222222222222222
+  Fisher: 0
+  Derudan: 0.7
+  Gorlas: 0.3333333333333333
+  Maker: 0
+  Calm: 0.2857142857142857
+  Aparal Forge: 0.26666666666666666
+  Orfantal: 1.0
+  Korlat: 0.3176470588235294
+  Detoran: 0.7
+  Antsy: 0.4492753623188406
+  Spindle: 0.6013071895424836
+  Calot: 1.0
+  Dessembrae: 0.4380952380952381
+  Picker: 0.40229885057471265
+  Beru: 0.23809523809523808
+  Steals: 0
+  Bird: 0
+  Edgewalker: 0.2
+  Kadagar Fant: 0.06666666666666667
+  Iparth: 0
+  Erule: 0
+  Edge: 0
+  Ampelas: 0.47619047619047616
+  Kalse: 0.7
+  Eloth: 0.32142857142857145
+  Freedom: 0.3333333333333333
+  Olar: 0.3055555555555556
+  Olar Ethil: 0.2153846153846154
+  Errant: 0.1636500754147813
+  Bugg: 0.17101449275362318
+  Brys Beddict: 0.13847117794486216
+  Tavore Paran: 0.13711426188490408
+  Onrack T'emlava: 0.2222222222222222
+  Ulshun: 0.7
+  Ulshun Pral: 0.3416666666666667
+  Kilava: 0.3
+  Udinaas: 0.22994652406417113
+  Rud Ellale: 0.37142857142857144
+  Silchas Ruin: 0.1602787456445993
+  Menandore: 0.36363636363636365
+  Hull Beddict: 0.5416666666666666
+  Best: 0.3238095238095238
+  Noto: 1.0
+  Noto Boil: 0.5
+  Bude: 1.0
+  Sweetcreek: 0.3333333333333333
+  Boil: 0.6666666666666666
+  Rythe Bude: 1.0
+  Skintick: 0.4065934065934066
+  Desra: 0.5833333333333334
+  Spinnock: 0.4
+  Aranict: 0.45054945054945056
+  Tehol Beddict: 0.16869095816464239
+  Gesler: 0.19279454722492698
+  Stormy: 0.26857142857142857
+  Henar: 0.9
+  Henar Vygulf: 0.6666666666666666
+  Grub: 0.5087719298245614
+  Gunth Mach: 0.4909090909090909
+  Kalyth: 0.2982456140350877
+  Sinn: 0.38924731182795697
+  Urko Crust: 0.6388888888888888
+  Krughava: 0.37362637362637363
+  Abrastal: 0.6666666666666666
+  Tanakalian: 0.9333333333333333
+  Run'Thurvian: 1.0
+  Spax: 0.6666666666666666
+  Banaschar: 0.2706552706552707
+  Blistig: 0.3655913978494624
+  D'rek: 0.25
+  Autumn: 0
+  Worm: 1.0
+  Pores: 0.48484848484848486
+  Kindly: 0.41106719367588934
+  Lostara: 0.4928774928774929
+  Lostara Yil: 0.5
+  Faradan Sort: 0.5571428571428572
+  Faradan: 1.0
+  Ruthan Gudd: 0.36752136752136755
+  Blessed: 0
+  Truth: 0.6285714285714286
+  Skanarow: 0.7777777777777778
+  Smiles: 0.4480796586059744
+  Koryk: 0.44390243902439025
+  Cuttle: 0.45209176788124156
+  Tarr: 0.48313090418353577
+  Shortnose: 0.6009852216748769
+  Corabb Bhilan Thenu'alas: 0.4112903225806452
+  Bottle: 0.31363636363636366
+  Masan Gilani: 0.4169570267131243
+  Flashwit: 0.5210084033613446
+  Gilani: 0.7857142857142857
+  Balm: 0.3310708898944193
+  Throatslitter: 0.5018939393939394
+  Deadsmell: 0.3996299722479186
+  Widdershins: 0.5187165775401069
+  Masan: 0.7333333333333333
+  Keneb: 0.3173758865248227
+  Sinter: 0.4596774193548387
+  Badan Gruk: 0.47058823529411764
+  Kisswhere: 0.49014778325123154
+  Limp: 0.6033333333333334
+  Ruffle: 1.0
+  Jamber Bole: 0.5954415954415955
+  Brethless: 0.6047430830039525
+  Balgrid: 0.47863247863247865
+  Touchy: 0.6578947368421053
+  Touch: 0.3333333333333333
+  Hellian: 0.3935897435897436
+  Cord: 0.43
+  Shard: 0.27485380116959063
+  Mayfly: 0.5495798319327732
+  Saltlick: 0.6493506493506493
+  Drawfirst: 0.4393939393939394
+  Skulldeath: 0.6666666666666666
+  Bavedict: 0.3333333333333333
+  Jastara: 1.0
+  Warleader Gall: 0.35294117647058826
+  Hanavat: 1.0
+  Shelemasa: 0.6666666666666666
+  Brevity: 0.7
+  Derryg: 1.0
+  Pithy: 0.5333333333333333
+  Nithe: 0
+  Yan Tovis: 0.22943722943722944
+  Tovis: 0.8333333333333334
+  Sandalath Drukorlat: 0.23636363636363636
+  Blind Warleader Gallan: 0.16666666666666666
+  Hust: 0.3333333333333333
+  Withal: 0.4444444444444444
+  Faint: 0.26842105263157895
+  Sweetest Sufferance: 0.7333333333333333
+  Sufferance: 0
+  Precious Thimble: 0.35
+  Sweetest: 1.0
+  Amby Bole: 0.6
+  Bole: 0.5818181818181818
+  Quell: 0.6666666666666666
+  Felash: 0.7
+  Coltaine: 0.2968960863697706
+  Bult: 0.38596491228070173
+  Lull: 0.6410256410256411
+  Duiker: 0.23639455782312926
+  Roach: 1.0
+  Bent: 1.0
+  Gu'Rull: 0.6666666666666666
+  Rutt: 0.38095238095238093
+  Held: 0.8333333333333334
+  Saddic: 1.0
+  Badalle: 0.4642857142857143
+  Gruntle: 0.15965166908563136
+  Itkovian: 0.2804232804232804
+  Harllo: 0.3787878787878788
+  Stonny Menackis: 0.4230769230769231
+  Treach: 0.15151515151515152
+  Pral: 0.4
+  Seren Pedac: 0.27350427350427353
+  Kettle: 0.45714285714285713
+  Ethil: 0.6666666666666666
+  Ralata: 1.0
+  Ublala: 0.3333333333333333
+  Draconus: 0.22413793103448276
+  Kalt Urmanal: 0
+  Nom Kala: 0.06666666666666667
+  Kalt: 0
+  Rumjugs: 0.3
+  Sweetlard: 0.3333333333333333
+  Krin: 0.3333333333333333
+  Skwish: 0.8333333333333334
+  Pully: 0.6666666666666666
+  Kilmandaros: 0.48484848484848486
+  Sechul Lath: 0.6222222222222222
+  Lath: 1.0
+  Tulas: 1.0
+  Tulas Shorn: 0.4722222222222222
+  Scabandari Bloodeye: 0.2987012987012987
+  Storii: 0.6666666666666666
+  Stavi: 1.0
+  Absi: 0.3333333333333333
+  Torrent: 0.19444444444444445
+  Hetan: 0.4
+  Rystalle Ev: 1.0
+  Ulag: 0.6666666666666666
+  Ulag Togtil: 1.0
+  Korabas: 0
+  Ardata: 1.0
+  Cora: 1.0
+  Honey: 1.0
+  Urugal: 0.23809523809523808
+  Beroke: 0
+  Minala: 0.3787878787878788
+  Korbolo Dom: 0.3634408602150538
+  Mallick Rel: 0.5454545454545454
+  Coop: 0
+  Bluepearl: 0.8611111111111112
+  Tiger: 0
+  Blend: 0.4782608695652174
+  Shurq Elalle: 0.1724137931034483
+  Ublala Pung: 0.6428571428571429
+  Pung: 1.0
+  Diligence: 1.0
+  Equity: 0
+  Reverence: 1.0
+  Seren Pedacity: 1.0
+  Gunth Mach'an Acyl: 1.0
+  Humbrall Taur: 0.6043956043956044
+  Elan: 0.3333333333333333
+  Beddict: 0.43790849673202614
+  Wolves of Winter: 0
+  Togg: 0.3
+  Wolves: 1.0
+  Setoc: 0.3055555555555556
+  Nimander Golit: 0
+  Spinnock Durav: 0.3
+  Nenanda: 1.0
+  Nimander: 0.2867647058823529
+  Dathenar: 0.3333333333333333
+  Prazek Goul: 0
+  ' Dark': 0
+  Phaed: 1.0
+  Aranatha: 0.8571428571428571
+  Kedeviss: 0.8095238095238095
+  Sekara: 0
+  Silverfox: 0.46
+  Cartographer: 0.6428571428571429
+  Reccanto: 0.8
+  Glanno: 0.9
+  Telorast: 0.10714285714285714
+  Curdle: 0.5
+  Baaljagg: 0.42857142857142855
+  Jula: 0.75
+  Leoman: 0.28045977011494255
+  Sha'ik: 0.31039136302294196
+  Flails: 1.0
+  Urb: 1.0
+  Raband: 0.7142857142857143
+  Bodyguard: 1.0
+  Karsa Orlong: 0.1532258064516129
+  Mathok: 0.8214285714285714
+  Polielmane: 0.5
+  Mekhar: 0
+  Grave: 1.0
+  Aloft: 1.0
+  Andarist: 0.6666666666666666
+  Sag'Churok: 0.3717948717948718
+  Skorgen: 1.0
+  Skorgen Kaban: 0
+  Worm of Autumn: 0
+  Karos: 0.2909090909090909
+  Vastly Blank: 0.5
+  Vastly: 0.6
+  Clasp: 0.875
+  'Thenik the ': 0.4
+  Thenik: 1.0
+  Kahlb: 1.0
+  Halad: 0.3333333333333333
+  Sample: 1.0
+  Ffan: 0.16666666666666666
+  Could Howl: 0
+  Hare Ravage: 1.0
+  Heboric Light Touch: 0.2650793650793651
+  Nep Furrow: 0.8235294117647058
+  Reliko: 0.4338461538461538
+  Nefarias Bredd: 1.0
+  Braven Tooth: 0.3333333333333333
+  Apsal'ara: 1.0
+  Thenu'alas: 0.6666666666666666
+  Janath Anar: 0.47435897435897434
+  Primly: 0.4696969696969697
+  Hunt: 0.6
+  Neller: 0.5357142857142857
+  Mulvan Dreader: 0.6666666666666666
+  Strap Mull: 0.5
+  Shoaly: 0.5277777777777778
+  Skim: 0.3333333333333333
+  Corabb Bhilan Thenu'alas Thenu'alas: 0.8363636363636363
+  T'amber: 0.6470588235294118
+  Crust: 0.6363636363636364
+  Mowri: 0
+  Redmask: 0.08888888888888889
+  Felisin Paran: 0.3476923076923077
+  Baudin: 0.5454545454545454
+  Hands: 0.46153846153846156
+  Kamist Reloe: 0.6166666666666667
+  Selv: 0.6666666666666666
+  Kesen: 0.6666666666666666
+  Vaneb: 1.0
+  Kulp: 0.43859649122807015
+  Legana Breed: 0.8333333333333334
+  Hentos Ilm: 0.3611111111111111
+  Legana: 0
+  Sormo E'nath: 0.5777777777777777
+  Chenned: 1.0
+  Sulmar: 0.8928571428571429
+  Nethpara: 0.5333333333333333
+  Baria Setral: 0
+  Mesker Setral: 0.16666666666666666
+  Baria: 0
+  Nether: 0.4935064935064935
+  Tumlit: 0
+  Pormqual: 0.7222222222222222
+  Lenestro: 0
+  Talo Krafar: 0.47619047619047616
+  Iskaral Pust: 0.3904761904761905
+  Apto: 1.0
+  Toc the Elder: 0.8
+  Alar: 1.0
+  Pullyk Alar: 0.7
+  Vatha: 0
+  Salk: 0
+  Mebra: 0.8
+  Pullyk: 0
+  Beneth: 0.5333333333333333
+  Rellock: 1.0
+  Gryllen: 0.4666666666666667
+  L'oric: 0.31339031339031337
+  Ryllandaras: 0.3333333333333333
+  Mappo Runt: 1.0
+  Mincer: 1.0
+  Bungle: 0
+  Panek: 0.8333333333333334
+  Squint: 0.6666666666666666
+  Temul: 0.696969696969697
+  Fast: 1.0
+  Bidithal: 0.5428571428571428
+  Febryl: 0.8
+  Mogora: 0.8333333333333334
+  Admiral Nok: 0.5428571428571428
+  Tene Baralta: 0.3046153846153846
+  Sawark: 1.0
+  Bula: 0
+  Pella: 0.7142857142857143
+  Thurule: 1.0
+  Senu: 0.8
+  Envy: 0.21052631578947367
+  Garath: 0.9
+  Aral: 0.6666666666666666
+  Seerdomin: 0.26666666666666666
+  Anaster: 0.3333333333333333
+  Buke: 0.3333333333333333
+  Cafal: 0.4090909090909091
+  Bauchelain: 0.38095238095238093
+  Korbal: 0.6666666666666666
+  Korbal Broach: 0.8333333333333334
+  Reese: 1.0
+  Broach: 1.0
+  Brukhalian: 0.3611111111111111
+  Karnadas: 1.0
+  Jelarkan: 1.0
+  Thrall: 0.3333333333333333
+  Rath': 0
+  T'riss: 0.26666666666666666
+  Rath'Hood: 0
+  Rath'Burn: 0.5
+  Rath'Ammanas: 0
+  Rath'Fener: 1.0
+  Artanthos: 1.0
+  Twist: 0.8
+  Maral Eb: 0
+  Aimless: 0.7777777777777778
+  Mulch: 0.6666666666666666
+  Talamandas: 0
+  Mhybe: 0.7047619047619048
+  Herald: 1.0
+  Gethol: 1.0
+  Summer: 0
+  Emancipor: 1.0
+  Hurlochel: 0.6666666666666666
+  Gent: 1.0
+  Rath'Treach: 0
+  Gran: 0.3333333333333333
+  Mull: 0
+  Lean: 0
+  Spite: 0.5238095238095238
+  Bendal Home: 0
+  Ay Estos: 0.8333333333333334
+  Farakalian: 0
+  Torun: 0
+  Raest: 1.0
+  Lanas Tog: 0
+  Shank: 0.7111111111111111
+  Toes: 0.6013071895424836
+  Runter: 0.8055555555555556
+  Bucklund: 0.8055555555555556
+  Aragan: 0
+  Liss: 1.0
+  Estraysian D'Arle: 0
+  Netok: 0.9333333333333333
+  Fayelle: 1.0
+  Ebron: 0.48484848484848486
+  Bell: 1.0
+  Aval: 0
+  Darist: 1.0
+  Trull Sengar: 0.13696715583508037
+  Malachar: 1.0
+  Enias: 1.0
+  Monok: 1.0
+  Monok Ochem: 0.4175824175824176
+  Ibra Gholan: 0.509090909090909
+  Ibra: 1.0
+  Gholan: 1.0
+  Ochem: 1.0
+  Bairoth Gild: 0.3055555555555556
+  Delum: 0.8333333333333334
+  Delum Thord: 0.8333333333333334
+  Thord: 1.0
+  Felisin Paran the Younger: 0.8571428571428571
+  Borduke: 0.4444444444444444
+  Bordu: 0
+  Tavos Pond: 0.680952380952381
+  Ranal: 0.8333333333333334
+  Tavos: 0
+  Grief: 0
+  Mudslinger: 0
+  Gentur: 0.3333333333333333
+  Jorrude: 1.0
+  Haran Epal: 1.0
+  Olar Shayn: 0.6666666666666666
+  'Whirlwind ': 1.0
+  'Beroke Soft ': 0.8333333333333334
+  Urugal the Woven: 0.6666666666666666
+  'Kahlb the Silent ': 0.8333333333333334
+  Halad the Giant: 1.0
+  Cynnigig: 0
+  Phyrlis: 0
+  Henaras: 0.9523809523809523
+  Lutes: 0.6
+  Pahlk: 1.0
+  Synyg: 1.0
+  Dayliss: 1.0
+  Sands: 0.5541125541125541
+  Bena: 0.7333333333333333
+  'Onrack T''emlava ': 0.7333333333333333
+  Generous: 0
+  Scillara: 0.4095238095238095
+  Polielfrog: 1.0
+  Galt: 0.6631578947368421
+  Lobe: 0.725
+  Burnt: 1.0
+  Moak: 0.19047619047619047
+  Stacker: 0.3333333333333333
+  Thom Tissy: 0.49473684210526314
+  Tulip: 0.38095238095238093
+  Ramp: 0.580952380952381
+  Able: 0.4666666666666667
+  Tissy: 0
+  Bowl: 0.3333333333333333
+  Uru Hela: 0.6033333333333334
+  Mosel: 0.5
+  Sobelone: 1.0
+  Tugg: 0.4
+  Shorn: 0.16666666666666666
+  Stone: 0.8333333333333334
+  Slavemaster: 0
+  Silgar: 0.3333333333333333
+  Damisk: 0.3333333333333333
+  Torvald Nom: 0.23636363636363636
+  Borrug: 0
+  Braven: 0.4
+  Tooth: 1.0
+  Rind: 1.0
+  Mape: 1.0
+  Pule: 1.0
+  Rhulad Sengar: 0.15288220551378445
+  Hannan Mosag: 0.28735632183908044
+  Buruk the Pale: 1.0
+  Binadas Sengar: 0.5220588235294118
+  Feather: 1.0
+  Feather Witch: 0.5512820512820513
+  Uruth Sengar: 0.5604395604395604
+  Tomad: 0.6025641025641025
+  Tomad Sengar: 0.8214285714285714
+  Theradas: 0.5128205128205128
+  Midik: 0.8095238095238095
+  Midik Buhn: 0.5833333333333334
+  Buhn: 0.6666666666666666
+  Hulad: 0
+  Mayen: 0.6923076923076923
+  Shand: 0.6071428571428571
+  Janall: 0.8333333333333334
+  Brizad: 1.0
+  Consort: 1.0
+  Triban Gnol: 0.2648221343873518
+  Kuru Qan: 0.6666666666666666
+  Unnutal: 1.0
+  Unnutal Hebaz: 0.5
+  Rissarh: 1.0
+  Hejun: 1.0
+  Druz Thennict: 1.0
+  Barrakta Ilk: 1.0
+  Gerun Eberict: 0.6190476190476191
+  Quillas: 0.4666666666666667
+  Nifadas: 0.3717948717948718
+  Nisall: 0.4666666666666667
+  Gerun: 0.6
+  Harlest Eberict: 0
+  Harlest: 1.0
+  Sukul Ankhadu: 0.6785714285714286
+  Sheltatha Lore: 0.5818181818181818
+  Theradas Buhn: 1.0
+  Moroch Nevath: 1.0
+  Moroch: 0.6666666666666666
+  Quillas Diskanar: 1.0
+  Diskanar: 1.0
+  Eberict: 1.0
+  Wither: 1.0
+  Betrayer: 0.3333333333333333
+  Saviour: 0
+  Scint: 0.8333333333333334
+  Onyx: 0.4666666666666667
+  Ormly: 0.5277777777777778
+  Glisten: 0.7
+  Bubyrd: 0.6666666666666666
+  Ruby: 1.0
+  Rucket: 0.7142857142857143
+  Choram Irard: 0.8333333333333334
+  Kholb Harat: 0.8333333333333334
+  Matra Brith: 0.4666666666666667
+  Ezgara: 1.0
+  Ezgara Diskanar: 0
+  Arahathan: 0
+  Enedictal: 0
+  Nekal Bara: 0
+  Hanradi Khalag: 1.0
+  Hanradi: 1.0
+  Ahlrada: 1.0
+  Ahlrada Ahn: 0.4
+  Canarth: 0.3333333333333333
+  Dawn: 0
+  Bentract: 0.8
+  Silann: 0.5
+  Sorrit: 0.6666666666666666
+  Kessobahn: 0.6666666666666666
+  Menand: 1.0
+  Mottle: 0
+  Iron Bars: 0.6666666666666666
+  Bars: 1.0
+  Corlo: 0.6666666666666666
+  Canar: 0
+  Hunch: 0
+  Arbat: 0
+  Selush: 1.0
+  Huldo: 0
+  Nevath: 0
+  Ursto Hoobutt: 0
+  Pinosel: 0.16666666666666666
+  Cough: 1.0
+  Sentinel: 0.32142857142857145
+  Barathol Mekhar: 0.21904761904761905
+  Jhelim: 1.0
+  Filiad: 0.6666666666666666
+  Kulat: 0
+  Taralack Veed: 1.0
+  Veed: 1.0
+  Taralack: 0.5
+  Samar Dev: 0.37777777777777777
+  Ganath: 1.0
+  Karpolan: 1.0
+  Karpolan Demesand: 0
+  Boatfinder: 1.0
+  Nulliss: 0.6666666666666666
+  Hayrith: 0
+  Fenar: 0
+  Heboric Light Touch Heboric Light Touch: 0
+  Chaur: 0.4
+  Futhgar: 0
+  Dunsparrow: 1.0
+  Dreams: 0
+  Scant: 0.5947368421052631
+  Hanno: 0.8161764705882353
+  Imrahl: 1.0
+  Rada: 0.3333333333333333
+  'Poliel ': 0
+  Poliel: 0
+  Jarak: 0
+  Taxilian: 0.28888888888888886
+  Temper: 1.0
+  Sathbaro Rangar: 0.6666666666666666
+  Kholb: 1.0
+  Hadar: 0
+  Exent Hadar: 0
+  Varat Taun: 0.5333333333333333
+  Varat: 1.0
+  Taun: 0
+  Bellig Harn: 0.7833333333333333
+  Reem: 0.8717948717948718
+  Sirryn: 1.0
+  Bruthen Trana: 0.6190476190476191
+  Karos Invictad: 0.3416666666666667
+  Invictad: 0.7142857142857143
+  Tanal Yathvanar: 0.6666666666666666
+  Yathvanar: 0
+  Tanal: 0.6666666666666666
+  Rautos Hivanar: 0
+  Hivanar: 0
+  Brullyg: 0.5555555555555556
+  Clip: 0.3904761904761905
+  Masarch: 0
+  Natarkas: 0
+  Brohl Handar: 0.3333333333333333
+  Bivatt: 0.6666666666666666
+  Boaral: 0
+  Beak: 0.7142857142857143
+  Pamby Doughty: 0
+  Brohl: 1.0
+  Letur Anict: 0.3333333333333333
+  Orbyn: 0.3333333333333333
+  Truthfinder: 1.0
+  Venitt: 0.16666666666666666
+  Venitt Sathad: 0.3333333333333333
+  'White ': 1.0
+  Orbyn Truthfinder: 0
+  Hostille Rator: 0.8095238095238095
+  Til'aras Benok: 0.8666666666666667
+  Gr'istanas Ish'ilm: 1.0
+  Lookback: 0.8666666666666667
+  Ursto: 0
+  Humble: 1.0
+  Hadralt: 0
+  Capalah: 0
+  Ventrala: 1.0
+  Scorch: 0.8
+  Leff: 0.5238095238095238
+  Studlock: 0.6
+  Gorlas Vidikas: 0.5
+  Vidikas: 0.4666666666666667
+  Myrla: 0.7333333333333333
+  Snell: 0.6
+  Hanut: 1.0
+  Hanut Orr: 1.0
+  Bainisk: 0.3333333333333333
+  Bain: 0
+  Venaz: 1.0
+  Endest Silann: 1.0
+  Salind: 0.3333333333333333
+  Skint: 1.0
+  Lazan Door: 1.0
+  Madrun: 0.4
+  Lazan: 0
+  Krute: 1.0
+  Krute of Talient: 0
+  Endest: 1.0
+  Drethdenan: 0.6
+  Vanut: 0
+  Vanut Degalla: 1.0
+  Hish Tulla: 0.6666666666666666
+  Manalle: 1.0
+  Hish: 0
+  Gradithan: 0
+  Monkrat: 0
+  Durav: 1.0
+  Reccanto Ilk: 0.7619047619047619
+  Glanno Tarp: 1.0
+  Ditch: 0
+  Kadaspala: 0
+  Seba Krafar: 0.3333333333333333
+  Sordiko Qualm: 0.5
+  Ilgast Rend: 0.6666666666666666
+  Bahann: 0.5
+  Esthala: 0.5
+  Kagamandra Tulas: 0.6666666666666666
+  Lock: 0.6666666666666666
+  Hinter: 0
+  Bellam: 0
+  Bedek: 1.0
+  Pallid: 1.0
+  Lucky: 0
+  Garsten: 0
+  Gareb: 0.7
+  Lender: 1.0
+  Visto: 0
+  J'an: 0.47619047619047616
+  Bre'nigan: 0
+  Acyl: 0.8
+  Mach: 1.0
+  Rythok: 0.8
+  Kor Thuran: 1.0
+  Asane: 1.0
+  Sheb: 1.0
+  Nappet: 1.0
+  Rautos: 1.0
+  Stream: 0.6666666666666666
+  Nose: 1.0
+  Stolmen: 0
+  Sunrise: 1.0
+  Bakal: 0
+  Strahl: 0
+  Kashat: 0
+  Brayderal: 1.0
+  Brolos Haran: 0.3333333333333333
+  Ilm Absinos: 0
+  Outrider: 0.9
+greatest_connected_component_size_ratio: 0.982

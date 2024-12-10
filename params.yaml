@@ -1,0 +1,4 @@
+min_co_occurence_threshold: 5
+k_clique_percolation_base: 6  # (finding communities based on N-cliques)
+louvain_communities_resolution: 1  # If resolution is less than 1, the algorithm favors larger communities. Greater than 1 favors smaller communities
+ws_rewire_probe: 0.2
